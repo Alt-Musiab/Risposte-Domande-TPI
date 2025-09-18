@@ -1,0 +1,34 @@
+1. Cos'è GITHUB?
+
+GitHub è una piattaforma online che permette di salvare, condividere e collaborare su progetti di programmazione.
+Si basa su Git, un sistema di controllo di versione, e aggiunge funzioni come:
+- interfaccia web,
+- gestione di team e collaboratori,
+- issue (segnalazione problemi),
+- pull request (richieste di modifica),
+- integrazione con altri servizi.
+
+2. Cosa significa Versioning?
+
+Versioning = gestione delle versioni di un progetto.
+Serve a tenere traccia di tutti i cambiamenti fatti al codice nel tempo.
+Così puoi:
+- tornare a una versione precedente,
+- vedere chi ha fatto quali modifiche,
+- lavorare in parallelo senza rischiare di perdere dati.
+
+3. Cosa significa fare un Commit?
+
+Un commit è come fare una “fotografia” del tuo progetto in un dato momento.
+Quando hai fatto delle modifiche (aggiunto codice, corretto errori, ecc.), con un commit le salvi nella cronologia.
+Ogni commit ha un messaggio che spiega cosa è stato cambiato.
+
+4. Cosa significa Fork e Branch?
+
+Fork è una copia di un intero progetto che prendi dal repository di qualcun altro sul tuo profilo GitHub.
+Serve per poterlo modificare liberamente senza toccare l’originale.
+Molto usato nell’open source: copi un progetto → fai modifiche → poi, se vuoi, mandi una “pull request” all’autore.
+
+Branch è un ramo parallelo del progetto.
+Serve per sviluppare una nuova funzionalità o correggere un bug senza toccare subito la versione principale (solitamente main o master).
+Dopo i test, puoi unire (merge) il branch nel ramo principale.
